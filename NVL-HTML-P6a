@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Liga Santander</title>
+  </head>
+  <body>
+    <h1>Equipos de la Liga Española </h1>
+    <img src="http://www.brandemia.org/sites/default/files/logotipos4.jpg" alt ="El logo de la Liga">
+    <ul>
+     <li>Alavés</li> 	
+     <li>Athletic Bilbao</li>
+     <li>Atlético Madrid </li>	
+     <li>Barcelona</li>
+     <li>Celta Vigo </li>	
+     <li>Eibar</li>
+     <li>Espanyol</li>
+     <li>Getafe</li> 	
+     <li>Granada</li> 	
+     <li>Leganés</li> 
+     <li>Levante </li>	
+     <li>Mallorca</li> 	
+     <li>Osasuna</li> 	
+     <li>Real Betis </li>	
+     <li>Real Madrid</li>
+     <li>Real Sociedad </li>	
+     <li>Sevilla </li>	
+     <li>Valencia</li>
+     <li>Valladolid </li>
+     <li>Villarreal</li>  
+</ul>
+  </body>
+</html>
+
